@@ -19,7 +19,7 @@ Open a terminal and type:
 
 ## Getting started
 
-To illustrate how GSynoX works under different scenarios, you can use [this tutorial](docs/getting_started_with_gsynox.md), also available both as a [jupyter notebook](docs/getting_started_with_gsynox.ipynb) and a plain [python script](docs/getting_started_with_gsynox.py).
+To illustrate how GSynoX works under different scenarios, you can use [this tutorial](docs/getting_started_with_gsynox.md), also available both as a [jupyter notebook](docs/getting_started_with_gsynox.ipynb) and as a plain [python script](docs/getting_started_with_gsynox.py).
 
 ## Help and support
 

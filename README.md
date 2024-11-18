@@ -1,4 +1,4 @@
-# GSynox (a Gene ID translator python package)
+# GSynoX (a Gene ID translator python package)
 
 ![GSynoX logo](docs/logo.png)
 

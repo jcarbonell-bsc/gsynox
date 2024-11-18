@@ -1,0 +1,33 @@
+[project]
+name = "gsynox"
+version = "0.9.0"
+authors = [
+  { name="José Carbonell Caballero", email="jcarbonell.bsc@gmail.com" },
+]
+description = "Gene ID translator dealing with synonyms and deprecated symbols"
+
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python",
+    "License :: OSI Approved :: CC BY-ND 4.0"
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "packaging",
+    "datetime"
+]
+license = {file = "LICENSE"}
+keywords = ["hgnc", "gene id translation", "ensembl", "uniprot", "bioinformatics"]
+
+[project.urls]
+Homepage = "https://github.com/jcarbonell-bsc/gsynox.git"
+Issues = "https://github.com/jcarbonell-bsc/gsynox/issues"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
